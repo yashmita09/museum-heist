@@ -1,5 +1,9 @@
 # Museum Heist
 
+## Gameplay
+
+![Museum Heist Gameplay](gameplay.png)
+
 Museum Heist is a Scratch game created for Harvard CS50 Week 0.
 
 ## Objective
